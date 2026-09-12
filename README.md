@@ -18,14 +18,14 @@ This Arduino example tests the  [pmw3610-pcb](https://github.com/hidsh/pmw3610-p
 ![schematic](img/connection-xiao-nrf.png)
 
 ## Pinout
-|PMW3610  | XIAO|
+|PMW3610-pcb  | XIAO|
 |-----|:-----------|
-|1 (VIN)  | +3.3V      |
-|2 (GND)  | GND        |
-|3 (SDIO) | D4  |
-|4 (SCLK) | D5  |
-|5 (nCS)  | D7  |
-|6 (MOTION)| D10 |
+|1 (VIN)  | 12 (+3.3V)      |
+|2 (GND)  | 13 (GND)        |
+|3 (SDIO) | 5 (D4)  |
+|4 (SCLK) | 6 (D5)  |
+|5 (nCS)  | 8 (D7)  |
+|6 (MOTION)| 11 (D10) |
 
 ## Links
 - [shiranehyuga/PMW3610](https://github.com/shiranehyuga/PMW3610)
