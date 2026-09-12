@@ -12,7 +12,7 @@ This Arduino example tests the  [pmw3610-pcb](https://github.com/hidsh/pmw3610-p
 ```
 
 - board: seeeduino_xiao_ble (XIAO nRF52840) and other MCU breakout boards
-- library: [Arduino PMW3610 Bitbanging driver](https://github.com/shiranehyuga/PMW3610)
+- library: [Arduino PMW3610 driver (Bit banging)](https://github.com/shiranehyuga/PMW3610)
 
 ## Connection to XIAO nRF52840
 ![schematic](img/connection-xiao-nrf.png)
