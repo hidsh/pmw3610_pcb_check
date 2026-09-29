@@ -28,6 +28,6 @@ This Arduino example tests the  [pmw3610-pcb](https://github.com/hidsh/pmw3610-p
 |6 (MOTION)| 11 (D10) |
 
 ## Links
-- [shiranehyuga/PMW3610](https://github.com/shiranehyuga/PMW3610)
+- Arduino PMW3610 Bit-Banging driver: [shiranehyuga/PMW3610](https://github.com/shiranehyuga/PMW3610) (Thanks to [shiranehyuga](https://github.com/shiranehyuga)!)
 - PMW3610 Breakout board: [pmw3610-pcb](https://github.com/hidsh/pmw3610-pcb) (Thanks to [siderakb](https://github.com/siderakb)!)
 - Shop: [BOOTH](https://zzz-kbd.booth.pm/items/7066618)
