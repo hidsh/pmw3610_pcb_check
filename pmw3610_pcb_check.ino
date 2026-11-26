@@ -1,4 +1,4 @@
-#include <src/PMW3610.h>          // bit-banging driver, thx to: https://github.com/shiranehyuga/PMW3610
+#include "src/PMW3610.h"          // bit-banging driver, thx to: https://github.com/shiranehyuga/PMW3610
 
 #ifdef USE_TINYUSB
   #include <Adafruit_TinyUSB.h>   // for Serial(USB-CDC)
